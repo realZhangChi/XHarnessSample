@@ -15,10 +15,10 @@ namespace XHarnessSample.Platforms.Android.tests
             Assert.Equal(1, 1);
         }
 
-        [Fact]
-        public void Should_Fail()
-        {
-            Assert.Equal(0, 1);
-        }
+        //[Fact]
+        //public void Should_Fail()
+        //{
+        //    Assert.Equal(0, 1);
+        //}
     }
 }
